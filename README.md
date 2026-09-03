@@ -1,6 +1,6 @@
 # IVC Decoder
 
-The `decoder.py` is a script that I wrote for the RoboSub competition's inter vehicle communication section (IVC) for Duburi. It is an underwater wireless communication system built for the competition. The script takes sound, analyzes frequency, locks onto correct frequency band and decodes a UART-like signal.
+The `decoder.py` is a script that I wrote for the RoboSub competition's inter vehicle communication section (IVC) for **Duburi**. It is an underwater wireless communication system built for the competition. The script takes sound, analyzes frequency, locks onto correct frequency band and decodes a UART-like signal.
 
 `decoder_debugger.py` is AI-generated code prompted from ChatGPT. It takes a WAV file and simulates how `decoder.py` interprets sent signals.
 
