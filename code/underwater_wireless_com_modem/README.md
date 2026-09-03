@@ -74,5 +74,5 @@ It worked out of the box, so no modifications were needed.
 
 ## Video
 
-<video src="[assets/ivc.mp4](https://github.com/floatingpointinteger/duburi/blob/main/assets/ivc.mp4](https://github.com/floatingpointinteger/duburi/blob/main/assets/ivc.mp4)" controls width="800">
+<video src="https://raw.githubusercontent.com/floatingpointinteger/duburi/main/assets/ivc.mp4" controls width="800">
 </video>
