@@ -70,8 +70,6 @@ FS and size seemed not to have significant effect on decoding, so standard value
 
 It is included as a debugging utility and is not part of the primary modem implementation.
 
-It worked out of the box, so no modifications were needed.
-
 ## Video
 
 https://github.com/user-attachments/assets/dbebd31e-4d9f-442b-a24f-bca0503a3e83
