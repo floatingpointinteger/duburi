@@ -74,5 +74,5 @@ It worked out of the box, so no modifications were needed.
 
 ## Video
 
-<video src="./video/ivc_demo.mp4" controls width="800">
+<video src="../assets/ivc.mp4" controls width="800">
 </video>
