@@ -74,5 +74,5 @@ It worked out of the box, so no modifications were needed.
 
 ## Video
 
-<video width="630" height="300" src="https://github.com/user-attachments/assets/ivc.mp4"></video>
+https://github.com/user-attachments/assets/ivc.mp4
 
