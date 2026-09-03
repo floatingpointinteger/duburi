@@ -2,7 +2,7 @@
 
 The `decoder.py` is a script that I wrote for the RoboSub competition's inter vehicle communication section (IVC) for **`Duburi`**. It is an underwater wireless communication system built for the competition. The script takes sound, analyzes frequency, locks onto correct frequency band and decodes a UART-like signal.
 
-`decoder_debugger.py` is AI-generated code prompted from ChatGPT. It takes a WAV file and simulates how `decoder.py` interprets sent signals.
+`decoder_debugger.py` was generated with AI assistance.
 
 ## Hardware
 
@@ -68,7 +68,7 @@ FS and size seemed not to have significant effect on decoding, so standard value
 
 ## Debugger
 
-`decoder_debugger.py` was AI-generated code.
+It is included as a debugging utility and is not part of the primary modem implementation.
 
 It worked out of the box, so no modifications were needed.
 
