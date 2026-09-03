@@ -74,5 +74,7 @@ It worked out of the box, so no modifications were needed.
 
 ## Video
 
-![](../../assets/ivc.mp4)
+https://github.com/user-attachments/assets/dbebd31e-4d9f-442b-a24f-bca0503a3e83
+
+
 
