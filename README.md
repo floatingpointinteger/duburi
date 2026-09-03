@@ -40,7 +40,7 @@ Start/end bits are used to remove corrupted packets.
 
 Separate time durations encode 1s and 0s.
 
-No max byte (1/0) length was introduced to keep code modular; this did not cause problems for the start/end structure.
+No max bit (1/0) length was introduced to keep code modular; this did not cause problems for the start/end structure.
 
 Max length could significantly lessen the possibility of corrupted signal detection.
 
@@ -73,6 +73,8 @@ It is included as a debugging utility and is not part of the primary modem imple
 ## Video
 
 https://github.com/user-attachments/assets/dbebd31e-4d9f-442b-a24f-bca0503a3e83
+
+During observed testing, every packet transmitted in the test runs was successfully decoded by the receiver. No packet loss was observed in those tests. Therefore, the time durations to encode the bits may be decreased to achieve a higher bandwidth in a later revision.
 
 
 
