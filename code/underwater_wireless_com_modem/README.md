@@ -74,5 +74,5 @@ It worked out of the box, so no modifications were needed.
 
 ## Video
 
-https://github.com/user-attachments/assets/ivc.mp4
+![](../../assets/ivc.mp4)
 
